@@ -23,5 +23,5 @@ function hideHeader(){
 }
 
 function showHeader(){
-    header.classList.remove('header-hidden')
+    header.classList.remove('header--hidden')
 }
